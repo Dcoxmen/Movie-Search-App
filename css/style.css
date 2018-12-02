@@ -1,0 +1,39 @@
+body {
+  background-color: #302f2f;
+  color: #ffffff;
+}
+#movies img,
+movie img {
+  width: 100%;
+}
+.well {
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border: 2px solid #919090;
+}
+.plot {
+  width: 90%;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+#movies .col-md-3 img {
+  height: 380px;
+}
+.list-group-item {
+  background-color: #302f2f;
+}
+.btn-set {
+  margin: 10px 24px;
+}
+.pix-props {
+  margin: 10px 10px;
+}
+.jumbotron {
+  background-color: #141313;
+}
+hr {
+  height: 1px;
+  color: #919090;
+  background-color: #919090;
+  border: none;
+}
